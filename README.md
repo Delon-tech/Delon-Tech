@@ -16,6 +16,11 @@ Hi, I'm Delon 👨‍💻 A passionate Software Engineering student from Indones
 **AI Tools & Platforms**
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai)
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-10a37f?style=flat&logo=openai)
+![Claude](https://img.shields.io/badge/-Claude-8A2BE2?style=flat&logo=anthropic)
+![Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=flat&logo=google)
+![Grok](https://img.shields.io/badge/-Grok-FF5F00?style=flat&logo=x)
+![DeepSeek](https://img.shields.io/badge/-DeepSeek-0056A2?style=flat)
+![Blackbox AI](https://img.shields.io/badge/-Blackbox_A.I.-000000?style=flat)
 ![Prompt Engineering](https://img.shields.io/badge/-Prompt_Engineering-blueviolet?style=flat)
 
 **Design & Content**
