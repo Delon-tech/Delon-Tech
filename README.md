@@ -2,7 +2,7 @@
 Hi, I'm Delon 👨‍💻 A passionate Software Engineering student from Indonesia 🇮🇩  
 - 🌱 I’m currently learning Flutter, Laravel, and Digital Marketing
 - 🚀 I'm building a rehydration drink product called **MARZ**
-- 📫 Reach me on [Instagram](https://instagram.com/kamu) or [LinkedIn](https://linkedin.com/in/kamu)
+- 📫 Reach me on [Instagram](https://www.instagram.com/mhmmdagil_028/) or [LinkedIn](https://www.linkedin.com/in/muh-agil-zakaria-a4a278310/)
 
 ## 🚀 Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5)
