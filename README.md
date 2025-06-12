@@ -10,7 +10,18 @@ Hi, I'm Delon 👨‍💻 A passionate Software Engineering student from Indones
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
 ![PHP](https://img.shields.io/badge/-PHP-777bb4?style=flat&logo=php)
 ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat&logo=mysql)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+
+**AI Tools & Platforms**
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai)
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-10a37f?style=flat&logo=openai)
+![Prompt Engineering](https://img.shields.io/badge/-Prompt_Engineering-blueviolet?style=flat)
+
+**Design & Content**
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva)
+![CapCut](https://img.shields.io/badge/-CapCut-000000?style=flat&logo=capcut)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
 
 ## 🔗 Connect With Me
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/mhmmdagil_028/)
