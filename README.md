@@ -13,8 +13,7 @@ Hi, I'm Delon 👨‍💻 A passionate Software Engineering student from Indones
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
 
-**AI Tools & Platforms**
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai)
+## AI Tools & Platforms
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-10a37f?style=flat&logo=openai)
 ![Claude](https://img.shields.io/badge/-Claude-8A2BE2?style=flat&logo=anthropic)
 ![Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=flat&logo=google)
@@ -23,7 +22,7 @@ Hi, I'm Delon 👨‍💻 A passionate Software Engineering student from Indones
 ![Blackbox AI](https://img.shields.io/badge/-Blackbox_A.I.-000000?style=flat)
 ![Prompt Engineering](https://img.shields.io/badge/-Prompt_Engineering-blueviolet?style=flat)
 
-**Design & Content**
+## Design & Content
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva)
 ![CapCut](https://img.shields.io/badge/-CapCut-000000?style=flat&logo=capcut)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
