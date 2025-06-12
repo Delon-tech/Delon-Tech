@@ -20,7 +20,6 @@ Hi, I'm Delon 👨‍💻 A passionate Software Engineering student from Indones
 ![Grok](https://img.shields.io/badge/-Grok-FF5F00?style=flat&logo=x)
 ![DeepSeek](https://img.shields.io/badge/-DeepSeek-0056A2?style=flat)
 ![Blackbox AI](https://img.shields.io/badge/-Blackbox_A.I.-000000?style=flat)
-![Prompt Engineering](https://img.shields.io/badge/-Prompt_Engineering-blueviolet?style=flat)
 
 ## Design & Content
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva)
